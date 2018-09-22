@@ -1,0 +1,4 @@
+target 'PhotoMap' do
+  use_frameworks!
+  pod 'AFNetworking'
+end
