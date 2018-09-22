@@ -3,9 +3,6 @@
 This is an application that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
 ## User Stories
-
-The following **required** user stories are complete:
-
 - [X] User can view a map of the Tucson area
 - [X] User can take a photo or choose one from the library
 - [X] User can tag a location to the photo via s search
